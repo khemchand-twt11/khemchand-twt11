@@ -1,6 +1,5 @@
-  ![logo](https://github.com/SONU0459/SONU0459/blob/main/Blue%20Purple%20Futuristic%20Modern%203D%20Tech%20Company%20Business%20Presentation.gif)
 
-<h1 align="center">Hi 👋, I'm Sonu</h1>
+<h1 align="center">Hi 👋, I'm Khemchand</h1>
 <!-- <h3 align="center">A passionate full stack developer from India</h3> -->
  <h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1&center=true&vCenter=true&width=250&height=40&lines=Full+Stack+Developer;Frontend+Developer" alt="Typing SVG" /></a></h3>
 
