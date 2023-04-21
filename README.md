@@ -6,7 +6,7 @@
 <img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" /> <hr><br>
 
 # 📝 Summary
-Hi, I'm Sonu, a skilled full stack and front-end developer from Delhi, India. I specialize in building high-quality websites and applications using modern technologies and frameworks.
+Hi, I'm Khemchand, a skilled full stack and front-end developer from Delhi, India. I specialize in building high-quality websites and applications using modern technologies and frameworks.
 
 Skilled in HTML, CSS, Javascript, ReactJS good in data structure and algorithms.
 
@@ -16,22 +16,21 @@ Skilled in HTML, CSS, Javascript, ReactJS good in data structure and algorithms.
 # 📍 About Me
 <br>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Node.js stack**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
-- 📫 How to reach me **sonu135245@gmail.com**
+- 📫 How to reach me **khemchandsh3@gmail.com**
 
 - 👯 Self Motivated
 
 - ⚡ Quick learner
 
-- ⚡ Fun fact **I am funny**
 
  <br>
 <h2 align="center"> :pencil: Connect with me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/sonu-kumar-aa927b223/" target="_blank">
+<a href="https://www.linkedin.com/in/khemchand-sharma-8b146b216/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </p>
