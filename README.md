@@ -2,14 +2,15 @@
 <h1 align="center">Hi 👋, I'm Khemchand</h1>
 <!-- <h3 align="center">A passionate full stack developer from India</h3> -->
 
+![img](https://komarev.com/ghpvc/?username=khemchand-twt11)
 
-<h3 align="center"> <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Node.js+Backend+Developer" alt="Typing SVG" /></a></h3>
-
-
-
+<h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=oswald&weight=600&pause=1000&center=true&width=500&height=70&lines=A+Passionate+Node.js+Backend+Developer" alt="Typing SVG" /></a></h3>
 
 
-<img align="left" alt="Coding" width="350" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif" /> <hr><br>
+
+
+
+<img align="left" alt="Coding" width="300" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif" /> <hr><br>
 
 # 📝 Summary
 Hi, I'm Khemchand, a skilled full stack and front-end developer from Delhi, India. I specialize in building high-quality websites and applications using modern technologies and frameworks.
@@ -24,7 +25,7 @@ Skilled in HTML, CSS, Javascript, ReactJS good in data structure and algorithms.
 
 - 🌱 I’m currently learning **Node.js stack**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node, MongoDB**
 
 - 📫 How to reach me **khemchandsh3@gmail.com**
 
