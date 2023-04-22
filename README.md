@@ -83,26 +83,6 @@ Skilled in HTML, CSS, Javascript, ReactJS good in data structure and algorithms.
 <img src="https://github-profile-trophy.vercel.app/?username=khemchand-twt11&column=-1&theme=onedark&rank=-?&margin-w=0" width="80%" />
  </div>
 
-<hr>
- 
-<p align="center">
-  You can Support my work by Sharing and giving a ⭐ to my repositories
- <div align="center">
-   Also, you can fork the repositories if you want.
- </div>
-
-</p>
-
- <div align="center">
-  <h3>Best of My Works</h3>
- <a href='https://github.com/khemchand-twt11/React_Todoapp' target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemchand-twt11&repo=React_Todoapp&theme=react"/>
- </a>
-<a href='https://github.com/khemchand-twt11/Secquraise.ReactApp' target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khemchand-twt11&repo=Secquraise.ReactApp&theme=react"/>
- </a>
-</div>
-
 
 
  
