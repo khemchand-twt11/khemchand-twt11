@@ -3,7 +3,7 @@
 <!-- <h3 align="center">A passionate full stack developer from India</h3> -->
 
 
-  <h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Node.js+Backend+Developer" alt="Typing SVG" /></a></h3>
+  <h3 align="center">< align="center" a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Node.js+Backend+Developer" alt="Typing SVG" /></a></h3>
 
 
 
