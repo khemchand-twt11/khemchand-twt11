@@ -2,11 +2,26 @@
 <h1 align="center">Hi 👋, I'm Khemchand</h1>
 <!-- <h3 align="center">A passionate full stack developer from India</h3> -->
 
-![img](https://komarev.com/ghpvc/?username=khemchand-twt11)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khemchand-twt11&label=Profile%20views&color=0e75b6&style=flat" alt="yours7himanshu" /> </p>
+
+<p align="left"> <a href="https://twitter.com/khemtwt11" target="blank"><img src="https://img.shields.io/twitter/follow/khemtwt11?logo=twitter&style=for-the-badge" alt="khemtwt11" /></a> </p>
 
 <h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=oswald&weight=600&pause=1000&center=true&width=500&height=70&lines=A+Passionate+Node.js+Backend+Developer" alt="Typing SVG" /></a></h3>
 
+- 🌱 I’m currently learning **Node.js, MongoDB**
 
+- 💬 Ask me about **Node**
+
+- 📫 How to reach me **Khemchand@gmail.com**
+
+- 📄 My Resume <a href="https://drive.google.com/file/d/1WpgDFD5117vI0FJqaOSq8Amw-Cx8R5sd/view?usp=share_link">Click Here</a>
+
+- 💼 My Portfolio <a href="https://tigmansh.github.io/">Click Here</a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/tigmanshu-garg-371128257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tigmanshu-garg" height="30" width="40" /></a>
+</p>
 
 
 
