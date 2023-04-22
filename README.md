@@ -3,7 +3,7 @@
 <!-- <h3 align="center">A passionate full stack developer from India</h3> -->
  <h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1&center=true&vCenter=true&width=250&height=40&lines=Full+Stack+Developer;Frontend+Developer" alt="Typing SVG" /></a></h3>
 
-<img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" /> <hr><br>
+<img align="left" alt="Coding" width="400" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif" /> <hr><br>
 
 # 📝 Summary
 Hi, I'm Khemchand, a skilled full stack and front-end developer from Delhi, India. I specialize in building high-quality websites and applications using modern technologies and frameworks.
