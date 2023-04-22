@@ -44,31 +44,9 @@
 </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khemchand-twt11&show_icons=true&locale=en&layout=compact" alt="yours7himanshu" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khemchand-twt11&show_icons=true&locale=en" alt="yours7himanshu" /></p>
 
-<h2 align="center"> 🏆 GitHub Stats </h2>
-
-  ![KHEMCHAND's GitHub stats](https://github-readme-stats.vercel.app/api?username=khemchand-twt11&show_icons=true&locale=en&theme=react&count_private=true) | ![KHEMCHAND's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khemchand-twt11&theme=react&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22) |
-| :---: | :---: |
-
-
-
-
-<div align="center" style="display: flex; ">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khemchand-twt11&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
-
-
-</div> 
-<br>
-<div align="center"> 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=khemchand-twt11&theme=react" width="50%" />
- </div>
- <br>
-
-<div align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=khemchand-twt11&column=-1&theme=onedark&rank=-?&margin-w=0" width="80%" />
- </div>
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khemchand-twt11&" alt="yours7himanshu" /></p>
  
