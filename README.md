@@ -8,70 +8,27 @@
 
 <h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=oswald&weight=600&pause=1000&center=true&width=500&height=70&lines=A+Passionate+Node.js+Backend+Developer" alt="Typing SVG" /></a></h3>
 
-- 🌱 I’m currently learning **Node.js, MongoDB**
+- 🔭 I’m currently working on **Node.js Backend Projects**
 
-- 💬 Ask me about **Node**
+- 🤝 I’m looking to collaborate on **Web development projects**
 
-- 📫 How to reach me **Khemchand@gmail.com**
+- 💬 Ask me about **Programming and Web Development Stuffs**
 
-- 📄 My Resume <a href="https://drive.google.com/file/d/1WpgDFD5117vI0FJqaOSq8Amw-Cx8R5sd/view?usp=share_link">Click Here</a>
+- 📫 How to reach me **Khemchandsh3@gmail.com**
 
-- 💼 My Portfolio <a href="https://tigmansh.github.io/">Click Here</a>
+- 📄 My Resume <a href="https://drive.google.com/file/d/1rZHUdvNjpqV4iHJhgunRwCIQsma_k7xo/view?usp=share_link">Click Here</a>
+
+- 💼 My Portfolio <a href="">Click Here</a>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tigmanshu-garg-371128257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tigmanshu-garg" height="30" width="40" /></a>
+<a href="https://twitter.com/khemtwt11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_yours_himanshu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khemchand-sharma-8b146b216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-dinkar-722612240" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:19799898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19799898" height="30" width="40" /></a>
 </p>
 
-
-
-<img align="left" alt="Coding" width="300" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif" /> <hr><br>
-
-# 📝 Summary
-Hi, I'm Khemchand, a skilled full stack and front-end developer from Delhi, India. I specialize in building high-quality websites and applications using modern technologies and frameworks.
-
-Skilled in HTML, CSS, Javascript, ReactJS good in data structure and algorithms.
-
-<br>
-<hr>
-
-# 📍 About Me
-<br>
-
-- 🌱 I’m currently learning **Node.js stack**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Node, MongoDB**
-
-- 📫 How to reach me **khemchandsh3@gmail.com**
-
-- 👯 Self Motivated
-
-- ⚡ Quick learner
-
-
- <br>
-<h2 align="center"> :pencil: Connect with me:</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/khemchand-sharma-8b146b216/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</p>
-<br>
-
-<h2 align="center"> :pencil: Languages and Tools:</h2>
- <p align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a> <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>    
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="25" /></a> <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
-</p>
-
-<br>
 
 <h2 align="center"> :pencil: Familiar IDEs & Deployment sites</h2>
 <p align="center">
