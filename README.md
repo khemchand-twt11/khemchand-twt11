@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, I'm Khemchand</h1>
 <!-- <h3 align="center">A passionate full stack developer from India</h3> -->
 
-  <h3 style="text-align: center;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Node.js+Backend+Developer" alt="Typing SVG" /></a></h3>
+<div style="display: flex; justify-content: center;">
+  <h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Node.js+Backend+Developer" alt="Typing SVG" /></a></h3>
+</div>
+
 
 
 
