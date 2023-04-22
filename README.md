@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Khemchand</h1>
 <!-- <h3 align="center">A passionate full stack developer from India</h3> -->
-<div style="text-align: center;">
-  <h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Node.js+Backend+Developer" alt="Typing SVG" /></a></h3>
-</div>
+
+  <h3 style="text-align: center;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Node.js+Backend+Developer" alt="Typing SVG" /></a></h3>
+
 
 
 <img align="left" alt="Coding" width="350" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif" /> <hr><br>
