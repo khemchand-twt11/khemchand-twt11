@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/khemtwt11" target="blank"><img src="https://img.shields.io/twitter/follow/khemtwt11?logo=twitter&style=for-the-badge" alt="khemtwt11" /></a> </p>
 
 <h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=oswald&weight=600&pause=1000&center=true&width=500&height=70&lines=A+Passionate+Node.js+Backend+Developer" alt="Typing SVG" /></a></h3>
-<img align="right" alt="coding" width="400" src="https://designbuffs.com/wp-content/uploads/2020/11/Boy-Working-From-Home.gif">
+<img align="right" alt="coding" width="400" src="https://goofy-goldstine-0f8bb1.netlify.app/img/web.gif">
 
 - 🔭 I’m currently working on **Node.js Backend Projects**
 
